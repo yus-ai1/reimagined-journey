@@ -1,1 +1,10 @@
-
+{
+  "maintenance": false,
+  "message": "Mod Maintenance Break",
+  "keys": {
+    "Yusuf_Admin-sjdisoe": {
+      "status": "valid",
+      "expiry": "2999-01-25T00:00:00"
+    }
+  }
+}
